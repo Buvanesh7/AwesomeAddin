@@ -11,5 +11,6 @@ namespace AwesomeAddin
         public static string NameValue { get; set; }
         public static int AgeValue { get; set; }
         public static double WeightValue { get; set; }
+        public static double HeightValue { get; set; }
     }
 }
