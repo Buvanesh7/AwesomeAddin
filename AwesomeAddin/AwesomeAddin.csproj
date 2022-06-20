@@ -326,6 +326,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ExternalCommands\DimensionGridsCommand.cs" />
+    <Compile Include="ExternalCommands\DummyClass.cs" />
     <Compile Include="ExternalCommands\HelloWorldCommand.cs" />
     <Compile Include="ExternalCommands\RevitLinkSelectorCommand.cs" />
     <Compile Include="ExternalCommands\WallCreationCommand.cs" />
