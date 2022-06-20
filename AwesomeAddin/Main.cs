@@ -88,15 +88,15 @@ namespace AwesomeAddin
             return Result.Succeeded;
         }
 
-        //private void DoSomething(object sender, ElementTypeDuplicatedEventArgs e)
-        //{
-        //    TaskDialog.Show("Message", "ElementDuplicated");
-        //}
+        private void DoSomething(object sender, ElementTypeDuplicatedEventArgs e)
+        {
+            TaskDialog.Show("Message", "ElementDuplicated");
+        }
 
-        //private void DisplayWelcomeMessage(object sender, DocumentOpenedEventArgs e)
-        //{
-        //    TaskDialog.Show("Welcome", "Model Opened");
-        //}
+        private void DisplayWelcomeMessage(object sender, DocumentOpenedEventArgs e)
+        {
+            TaskDialog.Show("Welcome", "Model Opened");
+        }
 
         public Result OnShutdown(UIControlledApplication application)
         {
