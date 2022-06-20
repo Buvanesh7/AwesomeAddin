@@ -1,0 +1,8 @@
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\bin\Debug2022\AwesomeAddin.dll
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\bin\Debug2022\AwesomeAddin.pdb
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2022\AwesomeAddin.Properties.Resources.resources
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2022\AwesomeAddin.csproj.GenerateResource.cache
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2022\AwesomeAddin.csproj.CoreCompileInputs.cache
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2022\AwesomeAddin.dll
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2022\AwesomeAddin.pdb
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2022\AwesomeAddin.csprojAssemblyReference.cache

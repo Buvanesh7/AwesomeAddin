@@ -1,0 +1,10 @@
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2020\AwesomeAddin.csproj.GenerateResource.cache
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2020\AwesomeAddin.csproj.CoreCompileInputs.cache
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\bin\Debug2020\AwesomeAddin.dll
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\bin\Debug2020\AwesomeAddin.pdb
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2020\AwesomeAddin.Properties.Resources.resources
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2020\AwesomeAddin.dll
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2020\AwesomeAddin.pdb
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2020\AwesomeAddin.HelloWorldWindow.resources
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2020\AwesomeAddin.Views.WallCreationWindow.resources
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2020\AwesomeAddin.Views.RevitLinkSelectorWindow.resources

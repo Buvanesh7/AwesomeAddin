@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>AwesomeAddin</Name>
+    <Assembly>AwesomeAddin\AwesomeAddin.dll</Assembly>
+    <AddInId>666c6854-98eb-4588-9002-0d196cc250f5</AddInId>
+    <FullClassName>AwesomeAddin.Main</FullClassName>
+    <VendorId>Bim Era</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

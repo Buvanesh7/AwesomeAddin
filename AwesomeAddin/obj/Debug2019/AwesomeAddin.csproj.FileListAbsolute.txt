@@ -1,0 +1,7 @@
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\bin\Debug2019\AwesomeAddin.dll
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\bin\Debug2019\AwesomeAddin.pdb
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2019\AwesomeAddin.Properties.Resources.resources
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2019\AwesomeAddin.csproj.GenerateResource.cache
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2019\AwesomeAddin.csproj.CoreCompileInputs.cache
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2019\AwesomeAddin.dll
+C:\Users\Akriyas\source\repos\AwesomeAddin\AwesomeAddin\obj\Debug2019\AwesomeAddin.pdb
